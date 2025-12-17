@@ -9,7 +9,7 @@ public class NewOrderController {
     
     @GetMapping("/order")
     public String NewOrder(@RequestParam String item){
-        return "Your order "+ item +" been deliverd";
+        return "Your order "+ item +" has been deliverd";
     }
     
 }
