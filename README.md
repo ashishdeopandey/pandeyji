@@ -32,8 +32,8 @@ The application contains **two REST controllers** and is suitable as a **starter
 
 ```
 src/main/java
-└── com/codewith/pandeyji
-    ├── PandeyjiApplication.java
+└── com/codewith/basic-getController
+    ├── Basic_GetControllerApplication.java
     └── Controller
         ├── HelloController.java
         └── NewOrderController.java
