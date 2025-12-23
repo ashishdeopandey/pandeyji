@@ -1,10 +1,10 @@
-package com.codewith.pandeyji;
+package com.codewith.basic_getController;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PandeyjiApplicationTests {
+class BasicGetControllerApplicationTests {
 
 	@Test
 	void contextLoads() {

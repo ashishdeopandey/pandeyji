@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codewith</groupId>
-	<artifactId>pandeyji</artifactId>
+	<artifactId>basic_getController</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>pandeyji</name>
+	<name>basic_getController</name>
 	<description>First Application</description>
 	<url />
 	<licenses>
